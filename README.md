@@ -112,7 +112,6 @@ A avaliação foi realizada em um conjunto de teste separado, garantindo uma an�
 ```
 ├── README.md
 ├── cardiovascular_risk_analysis.ipynb
-└── requirements.txt
 ```
 
 ---
