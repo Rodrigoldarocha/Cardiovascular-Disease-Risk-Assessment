@@ -111,7 +111,7 @@ A avaliação foi realizada em um conjunto de teste separado, garantindo uma an�
 
 ```
 ├── README.md
-├── cardiovascular_risk_analysis.ipynb
+├── Avaliação_de_Risco_de_Doenças_Cardiovasculares.ipynb
 ```
 
 ---
@@ -128,3 +128,9 @@ A avaliação foi realizada em um conjunto de teste separado, garantindo uma an�
 ## ⚠️ Aviso
 
 Este projeto tem caráter **educacional** e **não substitui diagnóstico médico profissional**.
+
+---
+
+## 👨‍💻 Autor
+
+**Rodrigo Rocha** — [GitHub](https://github.com/Rodrigoldarocha) · [LinkedIn](https://www.linkedin.com/in/rodrigo-rocha-19249170/)
